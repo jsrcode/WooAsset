@@ -4,7 +4,7 @@ namespace WooAsset
 {
     partial class AssetsEditorTool
     {
-        public class BundleGroupTool
+        public class EditorBundleTool
         {
             public static Dictionary<string, List<EditorAssetData>> GroupByDir(List<EditorAssetData> list)
             {
